@@ -1,1 +1,1 @@
-worker: python "BLITZ RASMIYBOT.py"
+worker: python "BLITZ_BOT.py"
